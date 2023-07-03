@@ -51,6 +51,7 @@ console.log(numero0 + numero1);
 */
 
 let x = 12;
+console.log(x);
 
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "name" già esistente: il tuo cognome.
